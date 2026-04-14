@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 from urllib.parse import quote
 
-
+#LR_pred_znanii_ii
 print("=== ЛАБОРАТОРНАЯ РАБОТА №2: WEB-SCRAPING ===\n")
 # 1.1 Выбор исполнителя
 artist=input("Введите имя исполнителя: ").strip()
