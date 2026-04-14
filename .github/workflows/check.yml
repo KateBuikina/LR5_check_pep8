@@ -23,4 +23,4 @@ jobs:
         run: pip install pycodestyle
 
       - name: Run PEP-8 check
-        run: pycodestyle main.py
+        run: pycodestyle lab_code.py
